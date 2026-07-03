@@ -1,2 +1,2 @@
 # WRY
-专注学习、自我提升、开源代码与数据
+Ph.D. student in Public Administration at Southeast University
